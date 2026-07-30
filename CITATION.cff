@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and this repository."
+title: "PFAS Source-Decoupling: national-scale analysis of UCMR5 drinking-water data"
+abstract: "Code testing whether U.S. drinking-water PFAS detection tracks local point-source proximity, using EPA UCMR5, facility-grade geocoding, and spatially validated gradient-boosted models."
+authors:
+  - family-names: "Islam"
+    given-names: "Naimul"
+    orcid: "https://orcid.org/0009-0002-3442-8980"
+version: "1.0.0"
+date-released: "2026-07-18"
+license: MIT
+repository-code: "https://github.com/Naimul-islam-bd/pfas-source-decoupling"
+keywords:
+  - PFAS
+  - drinking water
+  - UCMR5
+  - machine learning
+  - spatial analysis
