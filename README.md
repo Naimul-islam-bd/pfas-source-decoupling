@@ -69,7 +69,7 @@ Scripts are in `src/`. Run from the repository root with the virtual environment
 | 20 | `make_figures.py` | main-text detection and decoupling figures |
 | 21 | `make_exploratory_figures.py` | exploratory covariate and distance figures |
 | 22 | `make_figure3_monitoring.py` | monitoring-efficiency capture curve |
-| 23 | `make_graphical_abstract.py` | graphical abstract (Environmental Pollution spec) |
+| 23 | `make_graphical_abstract.py` | graphical abstract |
 | — | `audit_numbers.py` | prints every number the manuscript cites, for verification |
 | — | `make_toc_graphic.py` | an earlier abstract graphic kept for transparency |
 | — | `make_adjusted_figure.py` | a covariate-adjusted residual figure explored during analysis but not used in the paper (kept for transparency) |

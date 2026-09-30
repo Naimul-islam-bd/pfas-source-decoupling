@@ -1,5 +1,5 @@
 """
-make_toc_graphic.py - Table-of-Contents (TOC) / abstract graphic for the ES&T submission.
+make_toc_graphic.py - Table-of-Contents (TOC) / abstract graphic (ACS TOC-graphic specification).
 
 Built to the ACS specification exactly (ACS "Guidelines for Table of Contents /
 Abstract Graphics", updated 28 Feb 2024):
@@ -9,7 +9,7 @@ Abstract Graphics", updated 28 Feb 2024):
   * TIFF at 300 dpi for colour  (PNG also written, for your own preview)
   * legible at thumbnail size; tells the story like a single slide
   * depicts an environmental outcome, not a synthesis schematic
-    (ES&T editors reject TOC art that shows a synthesis scheme)
+    (ACS guidance favours outcome figures over synthesis schemes)
 
 Paragon Plus validates the dimensions on upload, so the figure size is fixed and
 bbox_inches='tight' is deliberately NOT used: that would crop and change the size.

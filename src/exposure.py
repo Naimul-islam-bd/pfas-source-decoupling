@@ -3,8 +3,8 @@ Module 5, step 1: POPULATION EXPOSURE (impact Angle 2).
 
 Joins POPULATION_SERVED_COUNT from SDWIS (ECHO's SDWA_PUB_WATER_SYSTEMS.csv)
 onto each tested PWS, keyed on PWSID, to report population served by systems
-where PFAS was detected -- the concrete impact figure the three desk-rejections
-were missing (cf. Tokranov et al., Science).
+where PFAS was detected. This gives the population-level impact figure
+that complements the detection analysis (cf. Tokranov et al., Science).
 
 TWO HONEST CAVEATS, both built into the output (do not drop either):
   1. This is POPULATION SERVED, not unique individuals. A person served by two

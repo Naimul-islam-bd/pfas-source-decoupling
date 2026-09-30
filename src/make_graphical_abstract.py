@@ -1,5 +1,5 @@
 """
-Graphical abstract for Environmental Pollution (mandatory).
+Graphical abstract (Elsevier graphical-abstract specification).
 EP spec: 531 x 1328 px (h x w) or proportionally more, sans-serif, TIFF preferred.
 Only real headline numbers are used.
 Writes: outputs/figures/graphical_abstract.(tif|png)
